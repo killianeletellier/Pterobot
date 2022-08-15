@@ -1,0 +1,86 @@
+{
+    "buttons": {
+        "addPanel": {
+            "type": 2,
+            "style": 1,
+            "label": "Lier un panel",
+            "custom_id": "addpanel"
+        },
+        "mainMenu": {
+            "type": 2,
+            "style": 2,
+            "label": "Menu principal",
+            "custom_id": "mainmenu"
+        },
+        "addPanelRetry": {
+            "type": 2,
+            "style": 1,
+            "label": "Réessayer",
+            "custom_id": "addpanel"
+        },
+        "changePowerSate": {
+            "type": 2,
+            "style": 1,
+            "label": "Changer l'état",
+            "custom_id": "changepowerstate"
+        },
+        "showServerDetails": {
+            "type": 2,
+            "style": 2,
+            "label": "Afficher les détails du serveur",
+            "custom_id": "showserverdetails"
+        },
+        "killServer": {
+            "type": 2,
+            "style": 4,
+            "label": "Tuer le serveur",
+            "custom_id": "kill"
+        },
+        "startServer": {
+            "type": 2,
+            "style": 3,
+            "label": "Lancer le serveur",
+            "custom_id": "start"
+        },
+        "restartServer": {
+            "type": 2,
+            "style": 1,
+            "label": "Redémarrer le serveur",
+            "custom_id": "restart"
+        },
+        "goBackServerHome": {
+            "type": 2,
+            "style": 2,
+            "label": "Revenir à la page du serveur",
+            "custom_id": "serverselected"
+        },
+        "editServerSettings": {
+            "type": 2,
+            "style": 1,
+            "label": "Modifier les informations du serveur",
+            "custom_id": "editserversettings"
+        },
+        "renameServer": {
+            "type": 2,
+            "style": 1,
+            "label": "Renommer le serveur",
+            "custom_id": "renameserver"
+        },"reinstallServer": {
+            "type": 2,
+            "style": 4,
+            "label": "Réinitialiser le serveur",
+            "custom_id": "reinstallserver"
+        },
+        "renameServerRetry": {
+            "type": 2,
+            "style": 1,
+            "label": "Réessayer",
+            "custom_id": "renameserver"
+        },"confirmReinstallation": {
+            "type": 2,
+            "style": 4,
+            "label": "Continuer",
+            "custom_id": "confirmedreinstallserver"
+        }
+    }
+}

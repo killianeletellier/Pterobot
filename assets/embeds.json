@@ -1,0 +1,167 @@
+{
+    "noPanel": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Erreur",
+        "description": "Vous n'avez lié aucun panel à Pterabot. Pour commencer, cliquez ici 👇",
+        "color": 15158332
+    },
+    "panelSelection": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "À quel panel voulez-vous vous connecter ?",
+        "color": 1135262
+    },
+    "apikeySelection": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Quelle clé d'API souhaitez-vous utiliser ?",
+        "color": 1135262
+    },
+    "addPanelURL": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Liaison d'un panel",
+        "description": "Quelle est l'URL de votre panel ?",
+        "color": 1135262
+    },
+    "timeout": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Erreur",
+        "description": "Vous avez dépassé le délai d'une minute.",
+        "color": 15158332
+    },
+    "addPanelAPIKey": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Liaison d'un panel",
+        "description": "Quelle est votre clé d'API liée à ce panel ?",
+        "color": 1135262
+    },
+    "addPanelAPILabel": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Liaison d'un panel",
+        "description": "Quelle nom souhaitez-vous donner à cette clé d'API ?",
+        "color": 1135262
+    },
+    "addPanelError": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Erreur",
+        "description": "L'URL et/ou la clé d'API indiquée sont invalides.",
+        "color": 15158332
+    },
+    "addPanelSuccess": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Liaison d'un panel",
+        "description": "Ce panel a été lié à votre compte avec succès !",
+        "color": 3066993
+    },
+    "connectionTimeout": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Erreur",
+        "description": "Le délai d'inactivité de la connexion a été dépassé.",
+        "color": 15158332
+    },
+    "server": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Bienvenue sur votre serveur !",
+        "description": "Que voulez-vous faire ?",
+        "color": 1135262
+    },
+    "serverSelection": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "À quel serveur voulez-vous vous connecter ?",
+        "color": 1135262
+    },
+    "changePowerState": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Que souhaitez-vous faire ?",
+        "color": 1135262
+    },
+    "serverPowerStateChanged": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Gestion du serveur",
+        "description": "État du serveur modifié avec succès !",
+        "color": 3066993
+    },
+    "editServerSettings": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Que souhaitez-vous faire ?",
+        "color": 1135262
+    },
+    "renameServer": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Comment souhaitez-vous renommer votre serveur ?",
+        "color": 1135262
+    },
+    "serverRenamed": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Gestion du serveur",
+        "description": "Serveur renommé avec succès !",
+        "color": 3066993
+    },
+    "reinstallWarning": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Attention",
+        "description": "Cette action est irrévocable ! Voulez-vous continuer ?",
+        "color": 15158332
+    },
+    "serverReinstalled": {
+        "type": "rich",
+        "author": {
+            "name": "Pterobot"
+        },
+        "title": "Gestion du serveur",
+        "description": "Serveur réinitialisé avec succès !",
+        "color": 3066993
+    }
+}
